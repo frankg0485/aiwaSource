@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AB153x_UT</string>
+
+    <string-array name="role_array">
+        <item>Agent</item>
+        <item>Partner</item>
+    </string-array>
+    <string-array name="AntennaUT_rpt_time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="AntennaUT_test_role">
+        <item>Both</item>
+        <item>Agent</item>
+        <item>Partner</item>
+    </string-array>
+    <string-array name="Key_Type">
+        <item>Double_Click</item>
+        <item>Triple_Click</item>
+        <item>Long_Press</item>
+    </string-array>
+    <string-array name="Double_Click_Key_Action">
+        <item>FORWARD</item>
+        <item>ANC_AND_PASSTHROUGH</item>
+    </string-array>
+    <string-array name="Triple_Click_Key_Action">
+        <item>BACKWARD</item>
+    </string-array>
+    <string-array name="Long_Press_Key_Action">
+        <item>VOICE_ASSISTANT</item>
+    </string-array>
+</resources>

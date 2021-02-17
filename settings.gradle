@@ -1,0 +1,1 @@
+include ':app', ':lib', ':racecmdutapp', ':lib153xpeq-debug', ':peqmgr', ':lib153xpeq', ':apprelay', ':libsocket'//, ':libsocket', ':lib_socket', ':lib_phone_ctrl', ':toolkit', ':wirelesstuning'
